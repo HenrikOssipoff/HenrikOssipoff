@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Danish guy, currently CTO @ [Coolshop.com](https://github.com/coolshop-com/), one of Denmark's largest e-commerce brands.
+Danish guy, currently IT Development Manager @ [Coolshop.com](https://github.com/coolshop-com/), one of Denmark's largest e-commerce brands.
 
 All opinions are my own.
 
